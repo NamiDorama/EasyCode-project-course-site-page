@@ -1,0 +1,76 @@
+.bg-p_1 {
+    width: 32px; height: 20px;
+    background: url('css_sprites.png') -291px -135px;
+}
+
+x
+.bg-p_2 {
+    width: 24px; height: 18px;
+    background: url('css_sprites.png') -369px -216px;
+}
+
+x
+.bg-p_3 {
+    width: 26px; height: 26px;
+    background: url('css_sprites.png') -369px -170px;
+}
+
+x
+.bg-p_4 {
+    width: 63px; height: 55px;
+    background: url('css_sprites.png') -67px -255px;
+}
+
+x
+.bg-p_5 {
+    width: 62px; height: 62px;
+    background: url('css_sprites.png') -129px -135px;
+}
+
+x
+.bg-p_6 {
+    width: 51px; height: 65px;
+    background: url('css_sprites.png') -67px -330px;
+}
+
+x
+.bg-p_7 {
+    width: 60px; height: 60px;
+    background: url('css_sprites.png') -211px -135px;
+}
+
+x
+.bg-p_8 {
+    width: 99px; height: 100px;
+    background: url('css_sprites.png') -10px -135px;
+}
+
+x
+.bg-p_9 {
+    width: 99px; height: 104px;
+    background: url('css_sprites.png') -250px -10px;
+}
+
+x
+.bg-p_10 {
+    width: 100px; height: 105px;
+    background: url('css_sprites.png') -10px -10px;
+}
+
+x
+.bg-p_11 {
+    width: 100px; height: 104px;
+    background: url('css_sprites.png') -130px -10px;
+}
+
+x
+.bg-p_12 {
+    width: 37px; height: 140px;
+    background: url('css_sprites.png') -10px -255px;
+}
+
+x
+.bg-p_13 {
+    width: 37px; height: 140px;
+    background: url('css_sprites.png') -369px -10px;
+}
